@@ -10,9 +10,11 @@ jobs:
   run-unit-tests:
     runs-on: ubuntu-latest
     steps:
+    # Cloning the repository on the Virtual ENV
       - name: Checkout code
         uses: actions/checkout@v3
 
+    # Setup the NODEJS env and passing additional parameters for the nodejs version
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
