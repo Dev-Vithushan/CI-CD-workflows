@@ -5,6 +5,7 @@ export default function Home() {
       <h2> Make this happening </h2>
       <h3> Adding comments in the Dev branch</h3>
       <h4> Checking the CI/CD using Github actions</h4>
+      <h4> Making change </h4>
       
     </div>
   );
