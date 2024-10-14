@@ -7,7 +7,7 @@ export default function Home() {
       <h4> Checking the CI/CD using Github actions</h4>
       <h4> Making change </h4>
       <h5> Made the changes for the fun</h5>
-      
+      <h6> Make this payment clear</h6>
     </div>
   );
 }
