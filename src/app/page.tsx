@@ -8,6 +8,8 @@ export default function Home() {
       <h4> Making change </h4>
       <h5> Made the changes for the fun</h5>
       <h6> Make this payment clear</h6>
+      <h6> Make your day clear</h6>
+
     </div>
   );
 }
